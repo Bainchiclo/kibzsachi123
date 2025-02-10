@@ -1,0 +1,375 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="APTN" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57320
+#EXTINF:-1 tvg-name="Canal D" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57479
+#EXTINF:-1 tvg-name="CinePOP SD" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57480
+#EXTINF:-1 tvg-name="Evasion SD" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57482
+#EXTINF:-1 tvg-name="Historia HD" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57483
+#EXTINF:-1 tvg-name="ICI Tele Montreal HD" group-title="Canada" 
+http://tv14s.xyz:8080/j3uQnW/880908/57484
+#EXTINF:-1 tvg-name="ICI Tele Quebec HD" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57493
+#EXTINF:-1 tvg-name="ICI VANCOUVER FR" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57485
+#EXTINF:-1 tvg-name="Disney La Chaine" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57481
+#EXTINF:-1 tvg-name="LCN" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57968
+#EXTINF:-1 tvg-name="METEO" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57486
+#EXTINF:-1 tvg-name="MOI ET CIE" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57487
+#EXTINF:-1 tvg-name="Prise" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57488
+#EXTINF:-1 tvg-name="RDS2 HD" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57490
+#EXTINF:-1 tvg-name="RDS INFO" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57491
+#EXTINF:-1 tvg-name="Super Ecran 1" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/66363
+#EXTINF:-1 tvg-name="Super Ecran 2 SD" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/66364
+#EXTINF:-1 tvg-name="Super Ecran 3 SD" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/66365
+#EXTINF:-1 tvg-name="Super Ecran 4 SD" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/66366
+#EXTINF:-1 tvg-name="TFO HD" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57495
+#EXTINF:-1 tvg-name="TVA Montreal FHD" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57497
+#EXTINF:-1 tvg-name="TVA SPORTS 1" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57498
+#EXTINF:-1 tvg-name="NOOVO" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57501
+#EXTINF:-1 tvg-name="Zeste HD" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57502
+#EXTINF:-1 tvg-name="CA-NBA TV" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/22995
+#EXTINF:- tvg-name="CA Sportsnet East" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/41836
+#EXTINF:-1 tvg-name="CA Sportsnet One" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/10247
+#EXTINF:-1 tvg-name=" TSN 4 HD" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/16130
+#EXTINF:-1 tvg-name="YTV East" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/63850
+#EXTINF:-1 tvg-name="A&E" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57476
+#EXTINF:-1 tvg-name="A&E" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57264
+#EXTINF:-1 tvg-name="ABC SPARK" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57375
+#EXTINF:-1 tvg-name="AMC" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57376
+#EXTINF:-1 tvg-name="Animal Planet" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57377
+#EXTINF:-1 tvg-name="BNN Bloomberg HD" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57358
+#EXTINF:-1 tvg-name="Bravo" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57379
+#EXTINF:-1 tvg-name="Cartoon Network" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57380
+#EXTINF:-1 tvg-name="Cartoon Network" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57356
+#EXTINF:-1 tvg-name="CBC NEWS NETWOR" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57304
+#EXTINF:-1 tvg-name="CBC Calgary HD" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57381
+#EXTINF:-1 tvg-name="CBC Charlottetown H" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57382
+#EXTINF:-1 tvg-name="CBC Edmonton" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57384
+#EXTINF:-1 tvg-name="CBC Halifax HD" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57385
+#EXTINF:-1 tvg-name="CBC Montreal HD" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57387
+#EXTINF:-1 tvg-name="CBC OTTAWA" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57305
+#EXTINF:-1 tvg-name="CBC Toronto" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57260
+#EXTINF:-1 tvg-name="CBC TORONTO" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57306
+#EXTINF:-1 tvg-name="CBC Vancouver" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57391
+#EXTINF:-1 tvg-name="CHCH" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57393
+#EXTINF:-1 tvg-name="CHRGD" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/75653
+#EXTINF:-1 tvg-name="CA CITY TV CALGARY" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/75652
+#EXTINF:-1 tvg-name="City TV Toronto" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57394
+#EXTINF:-1 tvg-name="CITY TV TORONTO HD" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57307
+#EXTINF:-1 tvg-name="CITY TV VANCOUVER" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57395
+#EXTINF:-1 tvg-name="CMT" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57258
+#EXTINF:-1 tvg-name="CNN" group-title="Canada" 
+http://tv14s.xyz:8080/j3uQnW/880908/57398
+#EXTINF:-1 tvg-name="CNN" group-title="Canada" 
+http://tv14s.xyz:8080/j3uQnW/880908/47213
+#EXTINF:-1 tvg-name="Cottage Life HD" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/47217
+#EXTINF:-1 tvg-name="CP24 News HD" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57357
+#EXTINF:-1 tvg-name="CP24 News HD" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57401
+#EXTINF:-1 tvg-name="CP24 HD" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57345
+#EXTINF:-1 tvg-name="CP24 FHD" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/47218
+#EXTINF:-1 tvg-name="CP24 HD" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57257
+#EXTINF:-1 tvg-name="CPAC" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57402
+#EXTINF:-1 tvg-name="CPAC English" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57352
+#EXTINF:-1 tvg-name="CPAC HD" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57351
+#EXTINF:-1 tvg-name="CRAVE 1" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57309
+#EXTINF:-1 tvg-name="CRAVE 2" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57310
+#EXTINF:-1 tvg-name="CRAVE 3" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57322
+#EXTINF:-1 tvg-name="CRAVE 4 HD" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57311
+#EXTINF:-1 tvg-name="CRIME & INVESTIGATION" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57256
+#EXTINF:-1 tvg-name="CTV Two Atlantic" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/79547
+#EXTINF:-1 tvg-name="CTV CALGARY" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57964
+#EXTINF:-1 tvg-name="CTV Comedy Channel" group-title="Canada" 
+http://tv14s.xyz:8080/j3uQnW/880908/57408
+#EXTINF:-1 tvg-name="CTV Drama Channel" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57254
+#EXTINF:-1 tvg-name="CTV Edmonton Alberta HD" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/58725
+#EXTINF:-1 tvg-name="CTV Halifax Nova Scotia HD" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57410
+#EXTINF:-1 tvg-name="CTV Kitchener" group-title="Canada"  
+http://tv14s.xyz:8080/j3uQnW/880908/58557
+#EXTINF:-1 tvg-name="CTV 2 London HD" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/58546
+#EXTINF:-1 tvg-name="CTV Montreal HD" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/47234
+#EXTINF:-1 tvg-name="CTV NEWS CHANNEL HD" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57350
+#EXTINF:-1 tvg-name="CTV OTTAWA" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/47237
+#EXTINF:-1 tvg-name="CTV Regina Saskatchewan HD" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/66381
+#EXTINF:-1 tvg-name="CTV Saskatoon Saskatchewan HD" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/66382
+#EXTINF:-1 tvg-name="CTV Sci-Fi Channel" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57253
+#EXTINF:-1 tvg-name="CTV Toronto HD" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/47296
+#EXTINF:-1 tvg-name="CTV2 Vancouver" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57316
+#EXTINF:-1 tvg-name="CTV2 Windsor HD" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/77165
+#EXTINF:-1 tvg-name="CTV Barrie Ontario HD" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57373
+#EXTINF:-1 tvg-name="Discovery Channel" group-title="Canada" 
+http://tv14s.xyz:8080/j3uQnW/880908/57252
+#EXTINF:-1 tvg-name="Discovery Science" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57418
+#EXTINF:-1 tvg-name="Disney Junior" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57349
+#EXTINF:-1 tvg-name="Disney XD" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57420
+#EXTINF:-1 tvg-name="DIY NETWORK FHD" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/47258
+#EXTINF:-1 tvg-name="DTOUR HD" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57250
+#EXTINF:-1 tvg-name="E!" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57422
+#EXTINF:-1 CANADA HD tvg-name="E! CANADA HD" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57249
+#EXTINF:-1 TV5 tvg-name="CA TV5" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57288
+#EXTINF:-1 tvg-name="Discovery Family" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57347
+#EXTINF:-1 tvg-name="Family Jr HD" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57346
+#EXTINF:-1 tvg-name="Food Network" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57247
+#EXTINF:-1 tvg-name="FOX NEWS" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/47281
+#EXTINF:-1 tvg-name="FX HD" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57268
+#EXTINF:-1 tvg-name="FXX" group-title="Canada" 
+http://tv14s.xyz:8080/j3uQnW/880908/57429
+#EXTINF:-1 tvg-name="Game Show Network HD" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57430
+#EXTINF:-1 tvg-name="Ginx esports TV" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57431
+#EXTINF:-1 tvg-name="Global News Kingston" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57432
+#EXTINF:-1 tvg-name="Global Edmonton News" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/58724
+#EXTINF:-1 tvg-name="Global Halifax News" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57434
+#EXTINF:-1 tvg-name="Global News Regina" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/66384
+#EXTINF:-1 tvg-name="Global Saskatoon" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/66383
+#EXTINF:-1 tvg-name="GLOBAL TORONTO" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57435
+#EXTINF:-1 tvg-name="GLOBAL TORONTO" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57302
+#EXTINF:-1 tvg-name="Global Vancouver" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57436
+#EXTINF:-1 tvg-name="Golf Channel HD" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57362
+#EXTINF:-1 tvg-name="HBO 1" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57437
+#EXTINF:-1 tvg-name="HBO 2" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57438
+#EXTINF:-1 tvg-name="HGTV" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57273
+#EXTINF:-1 tvg-name="HISTORY" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/47302
+#EXTINF:-1 tvg-name="HISTORY (E)" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57272
+#EXTINF:-1 tvg-name="HLN" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57441
+#EXTINF:-1 tvg-name="Investigation Discovery HD" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57442
+#EXTINF:-1 tvg-name="Lifetime" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57271
+#EXTINF:-1 tvg-name="Lifetime Movie Network" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57444
+#EXTINF:-1 tvg-name="Love Nature HD" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/47324
+#EXTINF:-1 tvg-name="MAKEFUL" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57270
+#EXTINF:-1 tvg-name="MOVIETIME HD" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/47331
+#EXTINF:-1 tvg-name="MSNBC" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/47332
+#EXTINF:-1 tvg-name="MTV" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57446
+#EXTINF:-1 tvg-name="MTV2" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57447
+#EXTINF:-1 tvg-name="MTV HD" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57368
+#EXTINF:-1 tvg-name="National Geographics" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57281
+#EXTINF:-1 tvg-name="National Geographic" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/47338
+#EXTINF:-1 tvg-name="National Geographic Wild" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57450 
+#EXTINF:-1 tvg-name="National Geographic Wild" group-title="Canada" 
+http://tv14s.xyz:8080/j3uQnW/880908/57280
+#EXTINF:-1 tvg-name="ATIONAL GEOGRAPHIC" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/47339
+#EXTINF:-1 tvg-name="NFL NETWORK HD" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/47346
+#EXTINF:-1 tvg-name="Nickelodeon" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/47349
+#EXTINF:-1 tvg-name="NTD" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/58023
+#EXTINF:-1 tvg-name="NTV St. John`s" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57478
+#EXTINF:-1 tvg-name="OLN" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57366
+#EXTINF:-1 tvg-name="OMNI1 HD" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57365
+#EXTINF:-1 tvg-name="OWN" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57277
+#EXTINF:-1 tvg-name="PBS HD" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57276
+#EXTINF:-1 tvg-name="Peachtree TV HD" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/47362
+#EXTINF:-1 tvg-name="RDS" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57325
+#EXTINF:-1 tvg-name="Showcase HD" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/47366
+#EXTINF:-1 tvg-name="Slice TV" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57274
+#EXTINF:-1 tvg-name="Smithsonian Channel" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/47369
+#EXTINF:-1 tvg-name="Sportsnet 360 HD" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/2219
+#EXTINF:-1 tvg-name="Sportsnet 360 HD" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57299
+#EXTINF:-1 tvg-name="Sportsnet East HD" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57298
+#EXTINF:-1 tvg-name="Sportsnet One (FHD)" group-title="Canada" 
+http://tv14s.xyz:8080/j3uQnW/880908/57297
+#EXTINF:-1 tvg-name="Sportsnet One (HD)" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/47379
+#EXTINF:-1 tvg-name="Sportsnet Ontario" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57463
+#EXTINF:-1 tvg-name="Sportsnet Ontario HD" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57296
+#EXTINF:-1 tvg-name="Sportsnet Ontario (FHD)" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/11649
+#EXTINF:-1 tvg-name="Sportsnet Pacific (FHD)" group-title="Canada" 
+http://tv14s.xyz:8080/j3uQnW/880908/9860
+#EXTINF:-1 tvg-name="Sportsnet Pacific HD" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/47387
+#EXTINF:-1 tvg-name="Sportsnet West (FHD)" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/20975
+#EXTINF:-1 tvg-name="SPORTSNET WEST" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57300
+#EXTINF:-1 tvg-name="Sportsnet World HD" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/75675
+#EXTINF:-1 tvg-name="CTV SCI-FI" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57464
+#EXTINF:-1 tvg-name="Teletoon East" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57372
+#EXTINF:-1 tvg-name="TFO" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57291
+#EXTINF:-1 tvg-name="CA TLC" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57290
+#EXTINF:-1 tvg-name="Treehouse" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57371
+#EXTINF:-1 tvg-name="The Shopping Channel" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57370
+#EXTINF:-1 tvg-name="TSN 1 (E)" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57292
+#EXTINF:-1 tvg-name="TSN 1 (R)" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/47440
+#EXTINF:-1 tvg-name="TSN 2 (R)" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/16129
+#EXTINF:-1 tvg-name="TSN 2 HD" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/47442
+#EXTINF:-1 tvg-name="TSN 3 HD" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/10389
+#EXTINF:-1 tvg-name="TSN 3 HD" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/47444
+#EXTINF:-1 vg-name="TSN 4" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/66783
+#EXTINF:-1 tvg-name="TSN 4 (B)" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/47446
+#EXTINF:-1 tvg-name="TSN 5" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57467
+#EXTINF:-1 tvg-name="TSN 5 HD" group-title="Canada" 
+http://tv14s.xyz:8080/j3uQnW/880908/16131
+#EXTINF:-1 tvg-name="TSN 5" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57295
+#EXTINF:-1 tvg-name="TV Ontario HD" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57369
+#EXTINF:-1 tvg-name="Vision" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57468
+#EXTINF:-1 tvg-name="Network East" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57284
+#EXTINF:-1 tvg-name="Weather Network Toronto" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57470
+#EXTINF:-1 tvg-name="World Fishing Network" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57471
+#EXTINF:-1 tvg-name="YES TV" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57472
+#EXTINF:-1 tvg-name="TELE QUEBEC" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57336
+#EXTINF:-1 tvg-name="TVA Sports 2" group-title="Canada"
+http://tv14s.xyz:8080/j3uQnW/880908/57337
